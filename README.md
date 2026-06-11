@@ -26,6 +26,8 @@ I believe the best way to learn is by building real projects, contributing to op
 * JavaScript
 * HTML
 * CSS
+* SQL
+* C
 
 ### Tools & Technologies
 
